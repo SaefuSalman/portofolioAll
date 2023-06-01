@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.left-satu {
+    color: #00ACB5;
+    position: relative;
+}
+
+.paragraf{
+    position: absolute;
+    top: 100px;
+    left: 80px;
+}
